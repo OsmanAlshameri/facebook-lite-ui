@@ -37,8 +37,11 @@ A new Flutter project.# واجهة تطبيق فيسبوك لايت (Facebook Li
 تطوير تطبيقات الموبايل
 
 ## إشراف
-م. أنس الصبري 
+م. أنس الصبري
 
+### لقطات من التطبيق
+![الصفحة الرئيسية](images/صوره التطبيق.png)
+![صفحة الاصدقاء](images/صورة التطبيق2.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
