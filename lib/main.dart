@@ -17,7 +17,7 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   int _selectedIndex = 5;
 
-  // هاي لستة الصفحات حق التنقل بينها
+  // هاذي لستة الصفحات حق التنقل بينها
   final List<Widget> _pages = [
     const Center(child: Text("صفحة التسوق")),
     const Center(child: Text("صفحة الإشعارات")),
